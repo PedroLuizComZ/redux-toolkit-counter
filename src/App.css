@@ -33,3 +33,14 @@
   min-width: 100px;
   text-align: center;
 }
+
+.counter-container span {
+  font-size: 20px;
+  margin: 12px;
+}
+
+
+.counter-container input {
+  font-size: 20px;
+  margin: 12px;
+}
